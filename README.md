@@ -1,4 +1,4 @@
-<h2>Newtowkring conversioon and exampl</h2>
+<h2>Newtowrking conversioon and example and learning</h2>
 <p>Subnetting is changing the subnetmask to suite host and network needs</p>
 <p>IP address always needed broadcast(last) and subnet address so -2 on USABLE addresses</p>
 <p>the ending side writing for addressing tells newtwork bits ex /24 = 24 networking bit means a sube net mask of 11111111.11111111.11111111.00000000 = a subnet of 255.255.255.0 ... 0 = host bits</p>
